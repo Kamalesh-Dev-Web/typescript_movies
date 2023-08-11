@@ -1,22 +1,11 @@
 import React from 'react'
-import logo from './logo.svg'
 import './App.css'
+import SignIn from '../src/pages/signIn/SignIn'
 
 function App (): JSX.Element {
   return (
-    <div className='App'>
-      <header className='App-header'>
-        <img src={logo} className='App-logo' alt='logo' />
-        <p>Welcome to my movies app where we can see list of movies</p>
-        <a
-          className='App-link'
-          href='https://reactjs.org'
-          target='_blank'
-          rel='noopener noreferrer'
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <SignIn />
     </div>
   )
 }
