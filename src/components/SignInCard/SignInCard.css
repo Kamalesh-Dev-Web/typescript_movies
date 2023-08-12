@@ -1,0 +1,12 @@
+.cardContainer {
+  background: #343434;
+  height: 80vh;
+  width: 33vw;
+  border-radius: 18px;
+  padding: 2rem;
+}
+
+.heading1 {
+  font-size: 32px;
+  color: #f7f7f7;
+}/*# sourceMappingURL=SignInCard.css.map */

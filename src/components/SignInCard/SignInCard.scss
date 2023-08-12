@@ -1,0 +1,14 @@
+@import "../../variables/Variables.scss";
+
+.cardContainer {
+  background: $greyColor;
+  height: 80vh;
+  width:33vw;
+  border-radius: 18px;
+  padding:2rem
+}
+
+.heading1{
+  font-size: $heading1;
+  color:$whiteColor
+}
