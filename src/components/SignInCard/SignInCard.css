@@ -1,0 +1,17 @@
+.cardContainer {
+  background: rgba(52, 52, 52, 0.7);
+  height: 70vh;
+  width: 33vw;
+  border-radius: 18px;
+  padding: 2rem;
+}
+
+.heading1 {
+  font-size: 32px !important;
+  color: #f7f7f7;
+}
+
+.textbox {
+  background-color: #f7f7f7;
+  border-radius: 8px;
+}/*# sourceMappingURL=SignInCard.css.map */
